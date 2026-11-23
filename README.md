@@ -80,6 +80,6 @@ In development. Per the tests, the four post types, the queue, folder routines, 
 | Alerts | Telegram Bot API |
 | Tests | pytest |
 
-Solo project, built with AI-assisted development (Claude Code).
+Solo project.
 
 Source code is private. Happy to walk through it in a call.
